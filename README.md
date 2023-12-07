@@ -1,3 +1,13 @@
+# Dockerized react-app
+
+```
+git clone https://github.com/MoustaphaCamara/react-docker.git
+```
+
+```
+docker compose up -d
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
