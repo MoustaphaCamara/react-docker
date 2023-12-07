@@ -5,7 +5,7 @@ git clone https://github.com/MoustaphaCamara/react-docker.git
 ```
 
 ```
-docker compose up -d
+docker compose up --build -d
 ```
 
 # React + TypeScript + Vite
